@@ -1,0 +1,12 @@
+name: nbdev-tryout
+
+channels:
+- conda-forge
+- fastai
+
+dependencies:
+- jupyterlab
+- nbdev
+
+pip:
+- jupyterlab-quarto
